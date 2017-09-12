@@ -13,11 +13,11 @@ time3 = 2
 distanceAfter6 = speed*time1
 distanceAfter10 = speed*time2
 distanceAfter20 = speed*time3
-print("distanceafter6:miles"+format(distanceafter6,",.2f"),\
-      "distanceafter10:miles"+format(distanceafter10,",.2f"),\
-    "distanceafter20:miles"+format(distanceafter20,",.2f")
-
-
+print("Distance after 6 hours is "+format(distanceAfter6,",.2f")+" miles.")
+print("Distance after 10 hours is "+format(distanceAfter10,",.2f")+" miles.")
+print("Distance after 20 hours is "+format(distanceAfter20,",.2f")+" miles.")
+     
+    
 
       
       
